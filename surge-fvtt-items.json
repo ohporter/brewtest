@@ -1,0 +1,26 @@
+{
+	"_meta": {
+		"sources": [{
+			"json": "SHBI",
+			"abbbreviation": "SHBI",
+			"full": "Surge Homebrew Items",
+			"version": "1.1.0"
+		}],
+		"dateAdded": 1537874753,
+		"dateLastModified": 1537874753
+	},
+	"item": [{
+		"name": "Acid (vial) - Improvised Weaspon",
+		"source": "PHB",
+		"page": 148,
+		"srd": true,
+		"type": "G",
+		"rarity": "none",
+		"weight": 1,
+		"value": 2500,
+		"entries": [
+			"Foo bar baz"
+		]
+	}]
+}
+	
